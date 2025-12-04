@@ -28,6 +28,6 @@
   <img src="IMG2.jpg"/>
   <img src="IMG4.png"/>
 
-  <img src="demo.gif" alt="效果演示" width="80%" />
+  <img src="GIF.gif" alt="效果演示" width="80%" />
 </video>
 </div>
