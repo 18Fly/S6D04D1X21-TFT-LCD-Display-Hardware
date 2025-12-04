@@ -1,0 +1,2 @@
+# S6D04D1X21-TFT-LCD-Display-Hardware
+使用STM32F103C8/BT6开发
