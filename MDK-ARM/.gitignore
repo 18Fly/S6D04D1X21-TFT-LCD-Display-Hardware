@@ -9,6 +9,7 @@
 /bin
 /obj
 /out
+/STM32-ApplicationDemo
 
 # eide template
 *.ept
