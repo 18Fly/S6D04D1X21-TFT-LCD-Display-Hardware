@@ -28,10 +28,6 @@
   <img src="IMG2.jpg"/>
   <img src="IMG4.png"/>
 
-<<<<<<< HEAD
   <img src="GIF.gif" alt="效果演示" width="80%" />
-=======
-  <img src="demo.gif" alt="效果演示" width="80%" />
->>>>>>> 7940921 (补充说明)
 </video>
 </div>
