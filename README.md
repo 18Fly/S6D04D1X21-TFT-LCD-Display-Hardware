@@ -19,8 +19,6 @@
   <img src="IMG3.png" alt="引脚定义图(34、35分别为LED_15V+和LED_15V-)" />
 </div>
 
----
-
 ## 该图为效果测试图片
 
 <div align="center">
